@@ -1,1 +1,1 @@
-# duplicate
+Write a C program that reads Ant (https://www.thisisant.com/developer/ant/ant-basics) device numbers (16-bit integers) on standard input and returns failure when a duplicate is read, or success when all the numbers have been read and no duplicates were found.  Do not use more than 10 kilobytes of stack and heap for this.
